@@ -1,0 +1,132 @@
+{
+  "plugins": [
+    {
+      "name": "active-directory",
+      "totalMigrations": 1,
+      "successfulMigrations": 1,
+      "failedMigrations": 0,
+      "lastMigration": "2026-01-15T16-40-01",
+      "status": "healthy",
+      "openPRs": 0,
+      "mergedPRs": 0,
+      "failedPRs": 1
+    },
+    {
+      "name": "aws-parameter-store",
+      "totalMigrations": 2,
+      "successfulMigrations": 1,
+      "failedMigrations": 1,
+      "lastMigration": "2026-02-10T09-15-00",
+      "status": "critical",
+      "openPRs": 1,
+      "mergedPRs": 1,
+      "failedPRs": 0
+    },
+    {
+      "name": "git-parameter",
+      "totalMigrations": 3,
+      "successfulMigrations": 3,
+      "failedMigrations": 0,
+      "lastMigration": "2026-03-01T14-30-00",
+      "status": "healthy",
+      "openPRs": 0,
+      "mergedPRs": 3,
+      "failedPRs": 0
+    },
+    {
+      "name": "docker-plugin",
+      "totalMigrations": 2,
+      "successfulMigrations": 1,
+      "failedMigrations": 1,
+      "lastMigration": "2026-02-20T11-00-00",
+      "status": "critical",
+      "openPRs": 1,
+      "mergedPRs": 1,
+      "failedPRs": 0
+    },
+    {
+      "name": "kubernetes",
+      "totalMigrations": 4,
+      "successfulMigrations": 4,
+      "failedMigrations": 0,
+      "lastMigration": "2026-03-10T08-45-00",
+      "status": "healthy",
+      "openPRs": 0,
+      "mergedPRs": 4,
+      "failedPRs": 0
+    },
+    {
+      "name": "slack-uploader",
+      "totalMigrations": 1,
+      "successfulMigrations": 1,
+      "failedMigrations": 0,
+      "lastMigration": "2026-01-25T10-20-00",
+      "status": "healthy",
+      "openPRs": 0,
+      "mergedPRs": 1,
+      "failedPRs": 0
+    },
+    {
+      "name": "pipeline-stage-view",
+      "totalMigrations": 2,
+      "successfulMigrations": 1,
+      "failedMigrations": 1,
+      "lastMigration": "2026-02-15T16-00-00",
+      "status": "needs-attention",
+      "openPRs": 1,
+      "mergedPRs": 1,
+      "failedPRs": 0
+    },
+    {
+      "name": "artifactory",
+      "totalMigrations": 3,
+      "successfulMigrations": 2,
+      "failedMigrations": 1,
+      "lastMigration": "2026-03-05T12-30-00",
+      "status": "critical",
+      "openPRs": 1,
+      "mergedPRs": 2,
+      "failedPRs": 0
+    },
+    {
+      "name": "ldap",
+      "totalMigrations": 1,
+      "successfulMigrations": 1,
+      "failedMigrations": 0,
+      "lastMigration": "2026-02-28T09-00-00",
+      "status": "healthy",
+      "openPRs": 0,
+      "mergedPRs": 1,
+      "failedPRs": 0
+    },
+    {
+      "name": "jira",
+      "totalMigrations": 2,
+      "successfulMigrations": 2,
+      "failedMigrations": 0,
+      "lastMigration": "2026-03-12T14-15-00",
+      "status": "healthy",
+      "openPRs": 0,
+      "mergedPRs": 2,
+      "failedPRs": 0
+    }
+  ],
+  "migrationTypes": {
+    "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText": { "total": 15, "success": 14, "fail": 1 },
+    "io.jenkins.tools.pluginmodernizer.UpgradeToJava11": { "total": 8, "success": 8, "fail": 0 },
+    "io.jenkins.tools.pluginmodernizer.UpgradeToJava17": { "total": 5, "success": 4, "fail": 1 },
+    "io.jenkins.tools.pluginmodernizer.MigrateAcegiSecurityToSpringSecurity": { "total": 3, "success": 2, "fail": 1 },
+    "io.jenkins.tools.pluginmodernizer.AddIncrementals": { "total": 2, "success": 2, "fail": 0 },
+    "io.jenkins.tools.pluginmodernizer.EnableCD": { "total": 4, "success": 4, "fail": 0 }
+  },
+  "aggregatedStats": {
+    "totalPlugins": 10,
+    "totalMigrations": 21,
+    "successfulMigrations": 17,
+    "failedMigrations": 4,
+    "successRate": 80.95,
+    "pluginsWithOpenPRs": 3,
+    "pluginsWithMergedPRs": 8,
+    "pluginsWithFailures": 4
+  }
+}

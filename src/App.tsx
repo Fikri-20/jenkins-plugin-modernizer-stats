@@ -11,17 +11,16 @@ export function App() {
   const [stats, setStats] = useState<AggregatedStats | null>(null);
   const [metadata, setMetadata] = useState<MigrationMetadata[]>([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const loadData = async () => {
       try {
         setLoading(true);
-        const data = await fetchAllMetadata(100);
+        const data = await fetchAllMetadata();
         setMetadata(data);
         setStats(aggregateStats(data));
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to load data');
+      } catch {
+        setStats(aggregateStats([]));
       } finally {
         setLoading(false);
       }
@@ -30,7 +29,6 @@ export function App() {
   }, []);
 
   if (loading) return <LoadingScreen />;
-  if (error) return <ErrorScreen error={error} />;
   
   const pluginSummaries = getPluginSummaries(metadata);
   const migrationStats = getMigrationIdStats(metadata);
@@ -84,18 +82,6 @@ function LoadingScreen() {
       <div className="text-center">
         <div className="animate-spin rounded-full h-12 w-12 border-4 border-[#D33833] border-t-transparent"></div>
         <p className="mt-4 text-slate-600">Loading plugin modernization data...</p>
-      </div>
-    </div>
-  );
-}
-
-function ErrorScreen({ error }: { error: string }) {
-  return (
-    <div className="min-h-screen flex items-center justify-center bg-slate-50">
-      <div className="text-center">
-        <div className="text-6xl text-red-500 mb-4">!</div>
-        <p className="text-slate-800 font-medium">{error}</p>
-        <p className="text-slate-600 mt-2">Unable to fetch data from GitHub API.</p>
       </div>
     </div>
   );
