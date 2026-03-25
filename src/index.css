@@ -1,8 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
   --color-jenkins-red: #D33833;
@@ -24,48 +24,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f8fafc;
-}
-
-@layer components {
-  .stat-card {
-    @apply bg-white rounded-xl shadow-sm border border-slate-200 p-6 transition-all duration-200 hover:shadow-md hover:border-slate-300;
-  }
-  
-  .stat-value {
-    @apply text-3xl font-bold text-slate-800 font-mono;
-  }
-  
-  .stat-label {
-    @apply text-sm text-slate-500 mt-1 uppercase tracking-wide;
-  }
-  
-  .status-badge {
-    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
-  }
-  
-  .status-healthy {
-    @apply bg-green-100 text-green-800;
-  }
-  
-  .status-needs-attention {
-    @apply bg-yellow-100 text-yellow-800;
-  }
-  
-  .status-critical {
-    @apply bg-red-100 text-red-800;
-  }
-  
-  .status-unknown {
-    @apply bg-slate-100 text-slate-600;
-  }
-  
-  .nav-link {
-    @apply px-4 py-2 text-slate-600 hover:text-jenkins-red transition-colors duration-150 font-medium;
-  }
-  
-  .nav-link-active {
-    @apply text-jenkins-red border-b-2 border-jenkins-red;
-  }
 }
 
 .code-font {
