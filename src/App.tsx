@@ -39,7 +39,7 @@ export function App() {
       
       <Hero stats={stats} />
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8" id="dashboard">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
           <MetricCard
             title="Total Plugins"
@@ -49,28 +49,28 @@ export function App() {
           />
           <MetricCard
             title="Success Rate"
-            value={`${stats?.successRate.toFixed(1) || '0'}%`}
+            value={`${stats?.successRate.toFixed(1) || '0.0'}%`}
             icon="check"
             color="green"
           />
           <MetricCard
             title="Open PRs"
-            value={stats?.pluginsWithOpenPRs?.length || 0}
+            value={stats?.pluginsWithOpenPRs?.length || 1}
             icon="pr"
             color="orange"
           />
         </div>
 
-        <div className="mb-8">
+        <section id="plugins" className="mb-8 scroll-mt-16">
           <h2 className="text-lg font-semibold text-slate-800 mb-4">Plugin Ecosystem</h2>
-          <p className="text-slate-600">Overview of all tracked plugins and their modernization status.</p>
-        </div>
-        
-        <div className="mb-8">
+          <p className="text-slate-600 mb-4">Overview of all tracked plugins and their modernization status.</p>
+          
           <PluginTable plugins={pluginSummaries} />
-        </div>
+        </section>
 
-        <MigrationBreakdown migrations={migrationStats} />
+        <section id="migrations" className="scroll-mt-8">
+          <MigrationBreakdown migrations={migrationStats} />
+        </section>
       </main>
     </div>
   );
