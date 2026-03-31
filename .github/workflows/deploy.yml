@@ -1,6 +1,8 @@
-name: Deploy to GitHub Pages
+name: Ingest, Build & Deploy
 
 on:
+  schedule:
+    - cron: "0 6 * * *"
   push:
     branches: [master]
   workflow_dispatch:
@@ -18,17 +20,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Ingest metadata
+        run: node scripts/ingest.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build
         run: npm run build

@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "fetch-data": "node scripts/fetch-metadata.mjs"
+    "ingest": "node scripts/ingest.mjs",
+    "ingest:dev": "node scripts/ingest.mjs --limit 50",
+    "build:full": "node scripts/ingest.mjs && tsc && vite build"
   },
   "dependencies": {
     "echarts": "^5.5.0",

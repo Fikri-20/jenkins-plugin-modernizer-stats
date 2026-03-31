@@ -1,0 +1,6947 @@
+[
+  {
+    "name": "BlazeMeterJenkinsPlugin",
+    "repository": "https://github.com/jenkinsci/blazemeter-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-05-48",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "CustomHistory",
+    "repository": "https://github.com/jenkinsci/custom-history-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-08-19",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "Matrix-sorter-plugin",
+    "repository": "https://github.com/jenkinsci/Matrix-sorter-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-39-11",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "Office-365-Connector",
+    "repository": "https://github.com/jenkinsci/office-365-connector-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T14-55-50",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "TestComplete",
+    "repository": "https://github.com/jenkinsci/testcomplete-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-21T10-08-39",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "TestFairy",
+    "repository": "https://github.com/jenkinsci/testfairy-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 2,
+    "failCount": 3,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2025-09-03T08-13-07",
+    "status": "critical",
+    "successRate": 40
+  },
+  {
+    "name": "absint-a3",
+    "repository": "https://github.com/jenkinsci/absint-a3-plugin.git",
+    "totalMigrations": 8,
+    "successCount": 7,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "developer",
+      "testing",
+      "migration",
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-03T07-37-22",
+    "status": "needs-attention",
+    "successRate": 87.5
+  },
+  {
+    "name": "active-directory",
+    "repository": "https://github.com/jenkinsci/active-directory-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T16-40-01",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "adaptive-disconnector",
+    "repository": "https://github.com/jenkinsci/adaptive-disconnector-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-42-39",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "advanced-installer-msi-builder",
+    "repository": "https://github.com/jenkinsci/advanced-installer-msi-builder-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-16-14",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "agent-loadbalance",
+    "repository": "https://github.com/jenkinsci/agent-loadbalance-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-18-54",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "agent-server-parameter",
+    "repository": "https://github.com/jenkinsci/agent-server-parameter-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-45-36",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "aio-tests",
+    "repository": "https://github.com/jenkinsci/aio-tests-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-50-23",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "alauda-devops-credentials-provider",
+    "repository": "https://github.com/jenkinsci/alauda-devops-credentials-provider-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-55-10",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "alauda-devops-pipeline",
+    "repository": "https://github.com/jenkinsci/alauda-devops-pipeline-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-59-58",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "alauda-kubernetes-support",
+    "repository": "https://github.com/jenkinsci/alauda-kubernetes-support-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-04-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "alauda-pipeline",
+    "repository": "https://github.com/jenkinsci/alauda-pipeline-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-09-38",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "alibabacloud-credentials",
+    "repository": "https://github.com/jenkinsci/alibabacloud-credentials-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-13-26",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "alibabacloud-ecs",
+    "repository": "https://github.com/jenkinsci/alibabacloud-ecs-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-17-17",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "alibabacloud-edas",
+    "repository": "https://github.com/jenkinsci/alibabacloud-edas-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-20-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aliyun-oss-uploader",
+    "repository": "https://github.com/jenkinsci/aliyun-oss-uploader-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-25-17",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "allure-jenkins-plugin",
+    "repository": "https://github.com/jenkinsci/allure-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-21-27",
+    "status": "needs-attention",
+    "successRate": 66.7
+  },
+  {
+    "name": "anchore-container-scanner",
+    "repository": "https://github.com/jenkinsci/anchore-container-scanner-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-23-13",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "android-emulator",
+    "repository": "https://github.com/jenkinsci/android-emulator-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-08-18T14-02-51",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "ansible-tower",
+    "repository": "https://github.com/jenkinsci/ansible-tower-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-29-44",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "ansible",
+    "repository": "https://github.com/jenkinsci/ansible-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 5,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-27T06-53-24",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "apifortress",
+    "repository": "https://github.com/jenkinsci/apifortress-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-26-19",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "app-detector",
+    "repository": "https://github.com/jenkinsci/app-detector-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-28-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "appcenter",
+    "repository": "https://github.com/jenkinsci/appcenter-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-33-21",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "appetize",
+    "repository": "https://github.com/jenkinsci/appetize-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T10-57-14",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "applatix",
+    "repository": "https://github.com/jenkinsci/applatix-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-31-26",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "appray",
+    "repository": "https://github.com/jenkinsci/appray-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-36-55",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "apprenda",
+    "repository": "https://github.com/jenkinsci/apprenda-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-42-26",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "appscan",
+    "repository": "https://github.com/jenkinsci/appscan-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 2,
+    "failCount": 1,
+    "openPRs": 1,
+    "mergedPRs": 1,
+    "tags": [
+      "dependencies",
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-10-03T19-32-31",
+    "status": "needs-attention",
+    "successRate": 66.7
+  },
+  {
+    "name": "aqua-security-scanner",
+    "repository": "https://github.com/jenkinsci/aqua-security-scanner-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-47-30",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "arachni-scanner",
+    "repository": "https://github.com/jenkinsci/arachni-scanner-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-51-57",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "arestocats",
+    "repository": "https://github.com/jenkinsci/arestocats-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T18-55-53",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "artifact-promotion",
+    "repository": "https://github.com/jenkinsci/artifact-promotion-plugin.git",
+    "totalMigrations": 6,
+    "successCount": 5,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "dependencies",
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-10-30T12-18-45",
+    "status": "needs-attention",
+    "successRate": 83.3
+  },
+  {
+    "name": "artifactory-artifact-manager",
+    "repository": "https://github.com/jenkinsci/artifactory-artifact-manager-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-00-01",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "artifactory-client-api",
+    "repository": "https://github.com/jenkinsci/artifactory-client-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-01-25",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "artifactory",
+    "repository": "https://github.com/jenkinsci/artifactory-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-37-08",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ascentialtest-cmd-line",
+    "repository": "https://github.com/jenkinsci/ascentialtest-cmd-line-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-02-14",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "asm-api",
+    "repository": "https://github.com/jenkinsci/asm-api-plugin.git",
+    "totalMigrations": 8,
+    "successCount": 8,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-02-19",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "audit-log",
+    "repository": "https://github.com/jenkinsci/audit-log-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-06-21",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "audit2db",
+    "repository": "https://github.com/jenkinsci/audit2db-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-23T08-31-01",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "autoaction-step",
+    "repository": "https://github.com/jenkinsci/autoaction-step-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-10-39",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "autocancel",
+    "repository": "https://github.com/jenkinsci/autocancel-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-13-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "autonomiq",
+    "repository": "https://github.com/jenkinsci/autonomiq-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-17-57",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "aws-bucket-credentials",
+    "repository": "https://github.com/jenkinsci/aws-bucket-credentials-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-42-13",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aws-codecommit-jobs",
+    "repository": "https://github.com/jenkinsci/aws-codecommit-jobs-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-26-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aws-device-farm",
+    "repository": "https://github.com/jenkinsci/aws-device-farm-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-36-48",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "aws-kinesis-consumer",
+    "repository": "https://github.com/jenkinsci/aws-kinesis-consumer-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-42-38",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aws-lambda-cloud",
+    "repository": "https://github.com/jenkinsci/aws-lambda-cloud-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-49-48",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "aws-lambda",
+    "repository": "https://github.com/jenkinsci/aws-lambda-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-44-53",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aws-parameter-store",
+    "repository": "https://github.com/jenkinsci/aws-parameter-store-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-54-03",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aws-sam",
+    "repository": "https://github.com/jenkinsci/aws-sam-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T19-59-10",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "aws-sqs-trigger",
+    "repository": "https://github.com/jenkinsci/aws-sqs-trigger-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-02-44",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "awseb-deployment-plugin",
+    "repository": "https://github.com/jenkinsci/awseb-deployment-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-47-18",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "azure-acs",
+    "repository": "https://github.com/jenkinsci/azure-acs-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-10-39",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "azure-event-grid-notifier",
+    "repository": "https://github.com/jenkinsci/azure-event-grid-notifier-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-17-31",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "backlog",
+    "repository": "https://github.com/jenkinsci/backlog-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-23-23",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "backup",
+    "repository": "https://github.com/jenkinsci/backup-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 4,
+    "failCount": 1,
+    "openPRs": 3,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-03T08-49-13",
+    "status": "needs-attention",
+    "successRate": 80
+  },
+  {
+    "name": "badge",
+    "repository": "https://github.com/jenkinsci/badge-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-28T12-58-57",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "beagle-security",
+    "repository": "https://github.com/jenkinsci/beagle-security-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-26-16",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "bitbucket-approve",
+    "repository": "https://github.com/jenkinsci/bitbucket-approve-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-51-57",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "bitbucket-filter-project-trait",
+    "repository": "https://github.com/jenkinsci/bitbucket-filter-project-trait-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T13-40-18",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "bitbucket-kubernetes-credentials",
+    "repository": "https://github.com/jenkinsci/bitbucket-kubernetes-credentials-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 8,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-03-49",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "bitbucket-pullrequest-builder",
+    "repository": "https://github.com/jenkinsci/bitbucket-pullrequest-builder-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-33-11",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "bitkeeper",
+    "repository": "https://github.com/jenkinsci/bitkeeper-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-54-02",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "blackduck-coverity-on-polaris",
+    "repository": "https://github.com/jenkinsci/blackduck-coverity-on-polaris-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 2,
+    "failCount": 1,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-03T08-56-00",
+    "status": "needs-attention",
+    "successRate": 66.7
+  },
+  {
+    "name": "blackduck-security-scan",
+    "repository": "https://github.com/jenkinsci/blackduck-security-scan-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-19T20-39-50",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "blink1",
+    "repository": "https://github.com/jenkinsci/blink1-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T08-58-16",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "block-build-final-project",
+    "repository": "https://github.com/jenkinsci/block-build-final-project-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-00-23",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "block-queued-job",
+    "repository": "https://github.com/jenkinsci/block-queued-job-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-02-53",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "block-same-builds",
+    "repository": "https://github.com/jenkinsci/block-same-builds-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-04-58",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "bmc-change-manager-imstm",
+    "repository": "https://github.com/jenkinsci/bmc-change-manager-imstm-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 3,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-15T14-04-09",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "bmc-rpd",
+    "repository": "https://github.com/jenkinsci/bmc-rpd-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T12-02-01",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "boot-clj",
+    "repository": "https://github.com/jenkinsci/boot-clj-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-07-07",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "breachlock-dast",
+    "repository": "https://github.com/jenkinsci/breachlock-dast-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-36-49",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "browserstack-integration",
+    "repository": "https://github.com/jenkinsci/browserstack-integration-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-10-35",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "btc-embeddedplatform",
+    "repository": "https://github.com/jenkinsci/btc-embeddedplatform-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-40-49",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "build-blocker-plugin",
+    "repository": "https://github.com/jenkinsci/build-blocker-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2026-01-12T17-19-54",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "build-discarder",
+    "repository": "https://github.com/jenkinsci/build-discarder-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-43-18",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "build-executors-filter-offline",
+    "repository": "https://github.com/jenkinsci/build-executors-filter-offline-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-46-28",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "build-health-cache-updater",
+    "repository": "https://github.com/jenkinsci/build-health-cache-updater-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-07T09-31-35",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "build-history-metrics-plugin",
+    "repository": "https://github.com/jenkinsci/build-history-metrics-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-05-15",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "build-metrics",
+    "repository": "https://github.com/jenkinsci/build-metrics-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-15-30",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "build-token-trigger",
+    "repository": "https://github.com/jenkinsci/build-token-trigger-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T20-54-35",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "buildrotator",
+    "repository": "https://github.com/jenkinsci/buildrotator-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T21-00-09",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "buildtriggerbadge",
+    "repository": "https://github.com/jenkinsci/buildtriggerbadge-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 2,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "testing",
+      "migration",
+      "dependencies",
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-27T16-08-02",
+    "status": "needs-attention",
+    "successRate": 50
+  },
+  {
+    "name": "byte-buddy-api",
+    "repository": "https://github.com/jenkinsci/byte-buddy-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-06-37",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "byteguard-build-actions",
+    "repository": "https://github.com/jenkinsci/byteguard-build-actions-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-21-57",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ca-mat-performance-benchmarking-by-broadcom",
+    "repository": "https://github.com/jenkinsci/ca-mat-performance-benchmarking-by-broadcom-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-12-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ca-service-virtualization",
+    "repository": "https://github.com/jenkinsci/ca-service-virtualization-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-15-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "carbonetes-serverless-container-scanning-and-policy-compliance",
+    "repository": "https://github.com/jenkinsci/carbonetes-serverless-container-scanning-and-policy-compliance-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-18-12",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "categorized-view",
+    "repository": "https://github.com/jenkinsci/categorized-view-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-17T17-16-39",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "changelog-history",
+    "repository": "https://github.com/jenkinsci/changelog-history-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-30-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "chef-tracking",
+    "repository": "https://github.com/jenkinsci/chef-tracking-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-36-33",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "chosen-views-tabbar",
+    "repository": "https://github.com/jenkinsci/chosen-views-tabbar.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-41-35",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "chromedriver",
+    "repository": "https://github.com/jenkinsci/chromedriver-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-46-25",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "clearcase-ucm-plugin",
+    "repository": "https://github.com/jenkinsci/clearcase-ucm-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-23-46",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cloudbees-devoptics-enabler",
+    "repository": "https://github.com/jenkinsci/cloudbees-devoptics-enabler-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-27-06",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cloudbees-enabler",
+    "repository": "https://github.com/jenkinsci/cloudbees-enabler-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-26T10-08-46",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "cloudbees-feature-management",
+    "repository": "https://github.com/jenkinsci/cloudbees-feature-management-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-29-53",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cloudbees-jenkins-advisor",
+    "repository": "https://github.com/jenkinsci/cloudbees-jenkins-advisor-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T13-49-23",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "cloudcoreo-deploytime",
+    "repository": "https://github.com/jenkinsci/cloudcoreo-deploytime-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T09-58-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cloudevents",
+    "repository": "https://github.com/jenkinsci/cloudevents-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-32-51",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cloudguard-shiftleft",
+    "repository": "https://github.com/jenkinsci/cloudguard-shiftleft-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-34-46",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cloudshare-docker",
+    "repository": "https://github.com/jenkinsci/cloudshare-docker-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-04-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cmakebuilder",
+    "repository": "https://github.com/jenkinsci/cmakebuilder-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-39-36",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codebeamer-result-trend-updater",
+    "repository": "https://github.com/jenkinsci/codebeamer-result-trend-updater-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-11-30",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codebeamer-xunit-importer",
+    "repository": "https://github.com/jenkinsci/codebeamer-xunit-importer-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-15-45",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codecommit-url-helper",
+    "repository": "https://github.com/jenkinsci/codecommit-url-helper-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-21-05",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codedx",
+    "repository": "https://github.com/jenkinsci/codedx-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-43-13",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codeql",
+    "repository": "https://github.com/jenkinsci/codeql-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-45-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codescene",
+    "repository": "https://github.com/jenkinsci/codescene-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-23T10-36-00",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "codesonar",
+    "repository": "https://github.com/jenkinsci/codesonar-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-17T17-53-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "collabnet",
+    "repository": "https://github.com/jenkinsci/collabnet-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-28-37",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "command-launcher",
+    "repository": "https://github.com/jenkinsci/command-launcher-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T17-38-33",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "comments-remover",
+    "repository": "https://github.com/jenkinsci/comments-remover-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-33-19",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "commons-lang-api",
+    "repository": "https://github.com/jenkinsci/commons-lang-api-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-48-10",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "commons-math3-api",
+    "repository": "https://github.com/jenkinsci/commons-math3-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-08-05",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "compress-buildlog",
+    "repository": "https://github.com/jenkinsci/compress-buildlog-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-50-46",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "computer-queue-plugin",
+    "repository": "https://github.com/jenkinsci/computer-queue-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-53-55",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "compuware-common-configuration",
+    "repository": "https://github.com/jenkinsci/compuware-common-configuration-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-42-12",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "compuware-strobe-measurement",
+    "repository": "https://github.com/jenkinsci/compuware-strobe-measurement-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-49-17",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "compuware-topaz-for-enterprise-data",
+    "repository": "https://github.com/jenkinsci/compuware-topaz-for-enterprise-data-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-56-16",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "compuware-topaz-for-total-test",
+    "repository": "https://github.com/jenkinsci/compuware-topaz-for-total-test-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 2,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-07T08-34-55",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "compuware-topaz-utilities",
+    "repository": "https://github.com/jenkinsci/compuware-topaz-utilities-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 4,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-54-30",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "compuware-xpediter-code-coverage",
+    "repository": "https://github.com/jenkinsci/compuware-xpediter-code-coverage-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 4,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T10-59-47",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "compuware-zadviser-api",
+    "repository": "https://github.com/jenkinsci/compuware-zadviser-api-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 4,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-04-57",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "config-driven-pipeline",
+    "repository": "https://github.com/jenkinsci/config-driven-pipeline-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T14-59-11",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "configuration-as-code-secret-ssm",
+    "repository": "https://github.com/jenkinsci/configuration-as-code-secret-ssm-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-01-44",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "consul",
+    "repository": "https://github.com/jenkinsci/consul-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-05-02",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "content-replace",
+    "repository": "https://github.com/jenkinsci/content-replace-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-07-43",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "continuum",
+    "repository": "https://github.com/jenkinsci/continuum-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-12-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "conventional-commits",
+    "repository": "https://github.com/jenkinsci/conventional-commits-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-11-24",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "convert-to-pipeline",
+    "repository": "https://github.com/jenkinsci/convert-to-pipeline-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-14-31",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "coordinator",
+    "repository": "https://github.com/jenkinsci/coordinator-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-20-07",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "copado",
+    "repository": "https://github.com/jenkinsci/copado-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-24-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "copyartifact",
+    "repository": "https://github.com/jenkinsci/copyartifact-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T09-59-35",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "cortex-metrics",
+    "repository": "https://github.com/jenkinsci/cortex-metrics-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-18-14",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "countjobs-viewstabbar",
+    "repository": "https://github.com/jenkinsci/countjobs-viewstabbar-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-22-24",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "coverage-badges-extension",
+    "repository": "https://github.com/jenkinsci/coverage-badges-extension-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-09-39",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "cron-shelve",
+    "repository": "https://github.com/jenkinsci/cron-shelve-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-32-39",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "crx-content-package-deployer",
+    "repository": "https://github.com/jenkinsci/crx-content-package-deployer-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-26-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cucumber-living-documentation",
+    "repository": "https://github.com/jenkinsci/cucumber-living-documentation-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-30-35",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "curseforge-publisher",
+    "repository": "https://github.com/jenkinsci/curseforge-publisher-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-40-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "custom-build-properties",
+    "repository": "https://github.com/jenkinsci/custom-build-properties-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 2,
+    "tags": [
+      "testing",
+      "migration",
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-10T15-25-15",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "custom-checkbox-parameter",
+    "repository": "https://github.com/jenkinsci/custom-checkbox-parameter-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-36-55",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "custom-job-icon",
+    "repository": "https://github.com/jenkinsci/custom-job-icon-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-43-17",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "custom-tools-plugin",
+    "repository": "https://github.com/jenkinsci/custom-tools-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-39-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "customized-build-message",
+    "repository": "https://github.com/jenkinsci/customized-build-message-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-46-11",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "cygwin-process-killer",
+    "repository": "https://github.com/jenkinsci/cygwin-process-killer-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-43-27",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "dagshub-branch-source",
+    "repository": "https://github.com/jenkinsci/dagshub-branch-source-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-46-40",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "daily-quote",
+    "repository": "https://github.com/jenkinsci/daily-quote-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-48-48",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "database-mariadb",
+    "repository": "https://github.com/jenkinsci/database-mariadb-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-11-06",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "database-sqlserver",
+    "repository": "https://github.com/jenkinsci/database-sqlserver-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 3,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "developer"
+    ],
+    "lastMigration": "2026-03-20T15-46-07",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "dbforge-devops-automation-for-sqlserver",
+    "repository": "https://github.com/jenkinsci/dbforge-devops-automation-for-sqlserver-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-50-36",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "depbuilder",
+    "repository": "https://github.com/jenkinsci/depbuilder-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-53-41",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "dependency-queue-plugin",
+    "repository": "https://github.com/jenkinsci/dependency-queue-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-53-19",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "deploy-dashboard",
+    "repository": "https://github.com/jenkinsci/deploy-dashboard-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-56-25",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "deploy-integrationserver",
+    "repository": "https://github.com/jenkinsci/deploy-integrationserver-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T15-58-07",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "describe-with-params",
+    "repository": "https://github.com/jenkinsci/describe-with-params-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-01-02",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "description-column-plugin",
+    "repository": "https://github.com/jenkinsci/description-column-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-04-13",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "diagnostics",
+    "repository": "https://github.com/jenkinsci/diagnostics-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-07-00",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "diawi-upload",
+    "repository": "https://github.com/jenkinsci/diawi-upload-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 4,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-57-08",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "digitalocean-plugin",
+    "repository": "https://github.com/jenkinsci/digitalocean-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-09-41",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "dingding-json-pusher",
+    "repository": "https://github.com/jenkinsci/dingding-json-pusher-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T11-59-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "disable-failed-job",
+    "repository": "https://github.com/jenkinsci/disable-failed-job-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-02-16",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "disable-github-multibranch-status",
+    "repository": "https://github.com/jenkinsci/disable-github-multibranch-status-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-04-50",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "docker-build-publish",
+    "repository": "https://github.com/jenkinsci/docker-build-publish-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-13-23",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "docker-commons",
+    "repository": "https://github.com/jenkinsci/docker-commons-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T18-06-09",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "docker-custom-build-environment",
+    "repository": "https://github.com/jenkinsci/docker-custom-build-environment-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-16-54",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "docker-plugin",
+    "repository": "https://github.com/jenkinsci/docker-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T09-59-16",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "docker-slaves",
+    "repository": "https://github.com/jenkinsci/docker-slaves-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-13T16-20-22",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "docker-workflow",
+    "repository": "https://github.com/jenkinsci/docker-workflow-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T14-44-19",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "dos-trigger",
+    "repository": "https://github.com/jenkinsci/dos-trigger-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-09-21",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "dropdown-viewstabbar-plugin",
+    "repository": "https://github.com/jenkinsci/dropdown-viewstabbar-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-12-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "dynamic_extended_choice_parameter",
+    "repository": "https://github.com/jenkinsci/dynamic-extended-choice-parameter-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-16-09",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ease-plugin",
+    "repository": "https://github.com/jenkinsci/ease-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-18-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "easyqa",
+    "repository": "https://github.com/jenkinsci/easyqa-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-22-13",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ec2-fleet",
+    "repository": "https://github.com/jenkinsci/ec2-fleet-plugin.git",
+    "totalMigrations": 6,
+    "successCount": 3,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 3,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2025-07-29T16-31-26",
+    "status": "needs-attention",
+    "successRate": 50
+  },
+  {
+    "name": "eclipse-update-site",
+    "repository": "https://github.com/jenkinsci/eclipse-update-site-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-24-57",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ecs-publisher",
+    "repository": "https://github.com/jenkinsci/ecs-publisher-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-27-36",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "emmacoveragecolumn",
+    "repository": "https://github.com/jenkinsci/emmacoveragecolumn-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-31-09",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "emotional-jenkins-plugin",
+    "repository": "https://github.com/jenkinsci/emotional-jenkins-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-33-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "envinject-api",
+    "repository": "https://github.com/jenkinsci/envinject-api-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T16-26-30",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "environment-filter-utils",
+    "repository": "https://github.com/jenkinsci/environment-filter-utils-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-23T12-06-27",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "environment-manager",
+    "repository": "https://github.com/jenkinsci/environment-manager-tools-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-36-29",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "exclusive-label-plugin",
+    "repository": "https://github.com/jenkinsci/exclusive-labels-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 1,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2026-01-27T06-52-24",
+    "status": "critical",
+    "successRate": 20
+  },
+  {
+    "name": "extended-read-permission",
+    "repository": "https://github.com/jenkinsci/extended-read-permission-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-15-53",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "extension-filter",
+    "repository": "https://github.com/jenkinsci/extension-filter-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-12-38",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "extra-columns",
+    "repository": "https://github.com/jenkinsci/extra-columns-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T13-43-48",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "extra-tool-installers",
+    "repository": "https://github.com/jenkinsci/extra-tool-installers-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 10,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-14-25",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "extreme-feedback",
+    "repository": "https://github.com/jenkinsci/extreme-feedback-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T16-11-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "extreme-notification",
+    "repository": "https://github.com/jenkinsci/extreme-notification-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-45-09",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ezwall",
+    "repository": "https://github.com/jenkinsci/ezwall-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-47-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "failedJobDeactivator",
+    "repository": "https://github.com/jenkinsci/failedjobdeactivator-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-51-31",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "figlet-buildstep",
+    "repository": "https://github.com/jenkinsci/figlet-buildstep-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 2,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-23T12-23-12",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "file-operations",
+    "repository": "https://github.com/jenkinsci/file-operations-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 7,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-17-10",
+    "status": "needs-attention",
+    "successRate": 77.8
+  },
+  {
+    "name": "files-found-trigger",
+    "repository": "https://github.com/jenkinsci/files-found-trigger-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T12-54-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "filesystem-list-parameter-plugin",
+    "repository": "https://github.com/jenkinsci/filesystem-list-parameter-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-27T07-41-20",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "flyway-api",
+    "repository": "https://github.com/jenkinsci/flyway-api-plugin.git",
+    "totalMigrations": 11,
+    "successCount": 5,
+    "failCount": 6,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-18-25",
+    "status": "critical",
+    "successRate": 45.5
+  },
+  {
+    "name": "flyway-runner",
+    "repository": "https://github.com/jenkinsci/flyway-runner-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 8,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies",
+      "developer",
+      "migration"
+    ],
+    "lastMigration": "2026-01-24T14-19-46",
+    "status": "needs-attention",
+    "successRate": 80
+  },
+  {
+    "name": "fogbugz",
+    "repository": "https://github.com/jenkinsci/fogbugz-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-04-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "fxcop-runner",
+    "repository": "https://github.com/jenkinsci/fxcop-runner-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-12-59",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "gallio",
+    "repository": "https://github.com/jenkinsci/gallio-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-19-53",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "git-parameter",
+    "repository": "https://github.com/jenkinsci/git-parameter-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T14-52-42",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "git-userContent",
+    "repository": "https://github.com/jenkinsci/git-userContent-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-30-45",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "git-version-monitor",
+    "repository": "https://github.com/jenkinsci/git-version-monitor-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 5,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-23-21",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "git",
+    "repository": "https://github.com/jenkinsci/git-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T15-15-50",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "gitbucket",
+    "repository": "https://github.com/jenkinsci/gitbucket-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-33-50",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "gitcolony-plugin",
+    "repository": "https://github.com/jenkinsci/gitcolony-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-35-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "github-issues",
+    "repository": "https://github.com/jenkinsci/github-issues-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-38-29",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "github-oauth",
+    "repository": "https://github.com/jenkinsci/github-oauth-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-19T14-20-20",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "github-organization-folder",
+    "repository": "https://github.com/jenkinsci/github-organization-folder-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T16-58-25",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "gitlab-kubernetes-credentials",
+    "repository": "https://github.com/jenkinsci/gitlab-kubernetes-credentials-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 8,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-21-02",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "gitlab-oauth",
+    "repository": "https://github.com/jenkinsci/gitlab-oauth-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T16-02-03",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "google-analytics-usage-reporter",
+    "repository": "https://github.com/jenkinsci/google-analytics-usage-reporter-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-41-44",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "google-git-notes-publisher",
+    "repository": "https://github.com/jenkinsci/google-git-notes-publisher-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-45-18",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "groovy-label-assignment",
+    "repository": "https://github.com/jenkinsci/groovy-label-assignment-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-47-58",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "gson-api",
+    "repository": "https://github.com/jenkinsci/gson-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-22-10",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "harvest",
+    "repository": "https://github.com/jenkinsci/harvest-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T17-17-03",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "hckrnews",
+    "repository": "https://github.com/jenkinsci/hckrnews-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-50-40",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "heavy-job",
+    "repository": "https://github.com/jenkinsci/heavy-job-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-52-42",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "hidden-parameter",
+    "repository": "https://github.com/jenkinsci/hidden-parameter-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-24-34",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "housekeeper",
+    "repository": "https://github.com/jenkinsci/housekeeper-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T13-54-58",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "htmlresource",
+    "repository": "https://github.com/jenkinsci/htmlresource-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T14-00-57",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "http-post",
+    "repository": "https://github.com/jenkinsci/http-post-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T14-10-30",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "humbug",
+    "repository": "https://github.com/jenkinsci/humbug-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T17-34-14",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "humio",
+    "repository": "https://github.com/jenkinsci/humio-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T14-18-54",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "hyper-commons",
+    "repository": "https://github.com/jenkinsci/hyper-commons-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T14-32-07",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "hyper-slaves",
+    "repository": "https://github.com/jenkinsci/hyper-slaves-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T14-40-11",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ibm-security-appscanstandard-scanner",
+    "repository": "https://github.com/jenkinsci/ibm-security-appscanstandard-scanner-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T14-50-04",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "icescrum",
+    "repository": "https://github.com/jenkinsci/icescrum-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 0,
+    "failCount": 5,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-05-27",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ifttt-build-notifier",
+    "repository": "https://github.com/jenkinsci/ifttt-build-notifier-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-09-00",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "imagecomparison",
+    "repository": "https://github.com/jenkinsci/imagecomparison-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-12-17",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "inflectra-spira-integration",
+    "repository": "https://github.com/jenkinsci/inflectra-spira-integration-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-15-09",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "integrity-plugin",
+    "repository": "https://github.com/jenkinsci/integrity-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-19-40",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "internetmeme",
+    "repository": "https://github.com/jenkinsci/internet-meme-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-23-14",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ipmessenger-plugin",
+    "repository": "https://github.com/jenkinsci/ipmessenger-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-26-58",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "itest",
+    "repository": "https://github.com/jenkinsci/itest-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-30-05",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ivy",
+    "repository": "https://github.com/jenkinsci/ivy-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T16-35-39",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jackson3-api",
+    "repository": "https://github.com/jenkinsci/jackson3-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-24T14-25-30",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jcaptcha-plugin",
+    "repository": "https://github.com/jenkinsci/jcaptcha-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 10,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 10,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-26-38",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jenkins-flowdock-plugin",
+    "repository": "https://github.com/jenkinsci/flowdock-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-35-35",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jenkinsci-appspider-plugin",
+    "repository": "https://github.com/jenkinsci/appspider-build-scanner-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-38-38",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jenkinswalldisplay",
+    "repository": "https://github.com/jenkinsci/walldisplay-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-40-59",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jgiven",
+    "repository": "https://github.com/jenkinsci/jgiven-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-43-24",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jigomerge",
+    "repository": "https://github.com/jenkinsci/jigomerge-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-46-18",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jira-steps",
+    "repository": "https://github.com/jenkinsci/jira-steps-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-03T22-40-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jira",
+    "repository": "https://github.com/jenkinsci/jira-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-19T06-58-56",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jms-messaging",
+    "repository": "https://github.com/jenkinsci/jms-messaging-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-03T14-18-30",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jnr-posix-api",
+    "repository": "https://github.com/jenkinsci/jnr-posix-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-34-51",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "job-import-plugin",
+    "repository": "https://github.com/jenkinsci/job-import-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-19T13-58-32",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jobcacher-artifactory-storage",
+    "repository": "https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-29-14",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jobcacher-oras-storage",
+    "repository": "https://github.com/jenkinsci/jobcacher-oras-storage-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-30-29",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jobcacher",
+    "repository": "https://github.com/jenkinsci/jobcacher-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-28-01",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jobdelete-builder",
+    "repository": "https://github.com/jenkinsci/jobdelete-builder-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-51-39",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jobrequeue",
+    "repository": "https://github.com/jenkinsci/jobrequeue-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T17-55-05",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jobrevision",
+    "repository": "https://github.com/jenkinsci/jobrevision-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-01-38",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "jobtemplates",
+    "repository": "https://github.com/jenkinsci/jobtemplates-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-07-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "joda-time-api",
+    "repository": "https://github.com/jenkinsci/joda-time-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-31-34",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "json-api",
+    "repository": "https://github.com/jenkinsci/json-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-32-40",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "json-path-api",
+    "repository": "https://github.com/jenkinsci/json-path-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-33-44",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jsoup",
+    "repository": "https://github.com/jenkinsci/jsoup-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-35-56",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "jsunit",
+    "repository": "https://github.com/jenkinsci/jsunit-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-15-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "junit-attachments",
+    "repository": "https://github.com/jenkinsci/junit-attachments-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 4,
+    "tags": [
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-03T19-22-25",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "kanboard",
+    "repository": "https://github.com/jenkinsci/kanboard-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-24-26",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "katalon",
+    "repository": "https://github.com/jenkinsci/katalon-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-05T14-25-26",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "keep-slave-disconnected",
+    "repository": "https://github.com/jenkinsci/keep-slave-disconnected-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-30-46",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "kiuwanJenkinsPlugin",
+    "repository": "https://github.com/jenkinsci/kiuwan-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-36-03",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "klocwork",
+    "repository": "https://github.com/jenkinsci/klocwork-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T18-42-05",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "kryptowire",
+    "repository": "https://github.com/jenkinsci/kryptowire-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 1,
+    "failCount": 8,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "developer",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-03T18-51-05",
+    "status": "critical",
+    "successRate": 11.1
+  },
+  {
+    "name": "kubernetes",
+    "repository": "https://github.com/jenkinsci/kubernetes-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T13-33-56",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "ldap",
+    "repository": "https://github.com/jenkinsci/ldap-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T17-10-47",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "lifx-notifier",
+    "repository": "https://github.com/jenkinsci/lifx-notifier-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T19-10-41",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "list-command",
+    "repository": "https://github.com/jenkinsci/list-command-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T19-17-31",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "loadcomplete",
+    "repository": "https://github.com/jenkinsci/loadcomplete-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 1,
+    "failCount": 3,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-03T19-23-55",
+    "status": "critical",
+    "successRate": 25
+  },
+  {
+    "name": "loadfocus-loadtest",
+    "repository": "https://github.com/jenkinsci/loadfocus-loadtest-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T19-29-50",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "locale",
+    "repository": "https://github.com/jenkinsci/locale-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-37-11",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "log-parser",
+    "repository": "https://github.com/jenkinsci/log-parser-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-19T16-30-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "login-theme",
+    "repository": "https://github.com/jenkinsci/login-theme-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 8,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 8,
+    "tags": [
+      "developer",
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-03-16T12-26-42",
+    "status": "needs-attention",
+    "successRate": 80
+  },
+  {
+    "name": "lucene-search",
+    "repository": "https://github.com/jenkinsci/lucene-search-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-17T18-29-24",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mailmap-resolver",
+    "repository": "https://github.com/jenkinsci/mailmap-resolver-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T19-42-31",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "marathon",
+    "repository": "https://github.com/jenkinsci/marathon-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T19-51-30",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mariadb-api",
+    "repository": "https://github.com/jenkinsci/mariadb-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-39-32",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "matlab",
+    "repository": "https://github.com/jenkinsci/matlab-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2025-08-01T16-38-10",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mdtool",
+    "repository": "https://github.com/jenkinsci/mdtool-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-01-22",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mentor-questa-vrm",
+    "repository": "https://github.com/jenkinsci/mentor-questa-vrm-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-08-36",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "metrics-datadog",
+    "repository": "https://github.com/jenkinsci/metrics-datadog-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-02T17-24-07",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "metrics-graphite",
+    "repository": "https://github.com/jenkinsci/metrics-graphite-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-16-48",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mission-control-view",
+    "repository": "https://github.com/jenkinsci/mission-control-view-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-23-13",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mqtt-notification-plugin",
+    "repository": "https://github.com/jenkinsci/mqtt-notification-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-32-04",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "msginject",
+    "repository": "https://github.com/jenkinsci/msginject-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-37-25",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mttr",
+    "repository": "https://github.com/jenkinsci/mttr-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-42-45",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "multi-branch-project-plugin",
+    "repository": "https://github.com/jenkinsci/multi-branch-project-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T20-01-45",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "multi-module-tests-publisher",
+    "repository": "https://github.com/jenkinsci/multi-module-tests-publisher-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-03T20-48-08",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "mysql-api",
+    "repository": "https://github.com/jenkinsci/mysql-api-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies",
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2026-02-01T20-00-07",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "next-executions",
+    "repository": "https://github.com/jenkinsci/next-executions-plugin.git",
+    "totalMigrations": 11,
+    "successCount": 11,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-40-45",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "nodelabelparameter",
+    "repository": "https://github.com/jenkinsci/nodelabelparameter-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T13-42-16",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "nouvola-divecloud",
+    "repository": "https://github.com/jenkinsci/nouvola-divecloud-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T06-45-09",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "nunit",
+    "repository": "https://github.com/jenkinsci/nunit-plugin.git",
+    "totalMigrations": 11,
+    "successCount": 8,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 8,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-41-59",
+    "status": "needs-attention",
+    "successRate": 72.7
+  },
+  {
+    "name": "one-shot-executor",
+    "repository": "https://github.com/jenkinsci/one-shot-executor-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T06-51-22",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "onesky",
+    "repository": "https://github.com/jenkinsci/onesky-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T06-55-08",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "openid4java",
+    "repository": "https://github.com/jenkinsci/openid4java-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 2,
+    "failCount": 1,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T06-58-40",
+    "status": "needs-attention",
+    "successRate": 66.7
+  },
+  {
+    "name": "openshift-k8s-credentials",
+    "repository": "https://github.com/jenkinsci/openshift-k8s-credentials-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 8,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-43-15",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "openstack-cloud",
+    "repository": "https://github.com/jenkinsci/openstack-cloud-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-27T20-16-23",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "oracle-cloud-infrastructure-compute-classic",
+    "repository": "https://github.com/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-02-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "oracle-cloud-infrastructure-compute",
+    "repository": "https://github.com/jenkinsci/oracle-cloud-infrastructure-compute-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-05-01",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "oras-java-api",
+    "repository": "https://github.com/jenkinsci/oras-java-api-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 5,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-24T14-44-23",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "oras-parameters",
+    "repository": "https://github.com/jenkinsci/oras-parameters-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2026-03-15T16-13-28",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "oss-symbols-api",
+    "repository": "https://github.com/jenkinsci/oss-symbols-api-plugin.git",
+    "totalMigrations": 7,
+    "successCount": 7,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 6,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-45-33",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "parallels-desktop",
+    "repository": "https://github.com/jenkinsci/parallels-desktop-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-14-00",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "parameter-pool",
+    "repository": "https://github.com/jenkinsci/parameter-pool-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-17-22",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "parameter-separator",
+    "repository": "https://github.com/jenkinsci/parameter-separator-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 7,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-46-48",
+    "status": "needs-attention",
+    "successRate": 70
+  },
+  {
+    "name": "parasoft-findings",
+    "repository": "https://github.com/jenkinsci/parasoft-findings-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-25-33",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "partyparrotstatus",
+    "repository": "https://github.com/jenkinsci/partyparrotstatus-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 3,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-28-43",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pending-changes",
+    "repository": "https://github.com/jenkinsci/pendingchanges-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-32-23",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "percentage-du-node-column",
+    "repository": "https://github.com/jenkinsci/percentage-du-node-column-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-39-41",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "php-builtin-web-server",
+    "repository": "https://github.com/jenkinsci/php-builtin-web-server-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-47-53",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "pipeline-as-yaml",
+    "repository": "https://github.com/jenkinsci/pipeline-as-yaml-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 3,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "developer",
+      "dependencies"
+    ],
+    "lastMigration": "2026-03-16T12-41-20",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-build-step",
+    "repository": "https://github.com/jenkinsci/pipeline-build-step-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 1,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T16-18-47",
+    "status": "needs-attention",
+    "successRate": 50
+  },
+  {
+    "name": "pipeline-cps-http",
+    "repository": "https://github.com/jenkinsci/pipeline-cps-http-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 7,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-48-03",
+    "status": "needs-attention",
+    "successRate": 77.8
+  },
+  {
+    "name": "pipeline-cps-oras",
+    "repository": "https://github.com/jenkinsci/pipeline-cps-oras-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 10,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 10,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-51-46",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-dependency-walker",
+    "repository": "https://github.com/jenkinsci/pipeline-dependency-walker-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T07-57-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "pipeline-graph-analysis",
+    "repository": "https://github.com/jenkinsci/pipeline-graph-analysis-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T16-42-09",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-groovy-lib",
+    "repository": "https://github.com/jenkinsci/pipeline-groovy-lib-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T17-26-13",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-keep-running-step",
+    "repository": "https://github.com/jenkinsci/pipeline-keep-running-step-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-06-24T07-19-20",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "pipeline-lib-oras",
+    "repository": "https://github.com/jenkinsci/pipeline-lib-oras-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 10,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 10,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-50-32",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-multibranch-defaults",
+    "repository": "https://github.com/jenkinsci/pipeline-multibranch-defaults-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "testing",
+      "migration"
+    ],
+    "lastMigration": "2025-10-05T13-47-45",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "pipeline-npm",
+    "repository": "https://github.com/jenkinsci/pipeline-npm-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-49-16",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-stage-view",
+    "repository": "https://github.com/jenkinsci/pipeline-stage-view-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T17-52-25",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pipeline-utility-steps",
+    "repository": "https://github.com/jenkinsci/pipeline-utility-steps-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T16-24-02",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "piwikanalytics",
+    "repository": "https://github.com/jenkinsci/piwikanalytics-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-03-03",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "popper-api",
+    "repository": "https://github.com/jenkinsci/popper-api-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-21T21-01-59",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "post-completed-build-result",
+    "repository": "https://github.com/jenkinsci/post-completed-build-result-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-07-37",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "postgresql-fingerprint-storage",
+    "repository": "https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 10,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 7,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-53-13",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "powershell",
+    "repository": "https://github.com/jenkinsci/powershell-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T16-33-23",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "pretested-integration",
+    "repository": "https://github.com/jenkinsci/pretested-integration-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-10-59",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "probely-security",
+    "repository": "https://github.com/jenkinsci/probely-security-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 2,
+    "failCount": 1,
+    "openPRs": 1,
+    "mergedPRs": 1,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-02T15-43-31",
+    "status": "needs-attention",
+    "successRate": 66.7
+  },
+  {
+    "name": "prqa-plugin",
+    "repository": "https://github.com/jenkinsci/prqa-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-14-04",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "puppet",
+    "repository": "https://github.com/jenkinsci/puppet-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-16-58",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "qmetry-for-jira-test-management",
+    "repository": "https://github.com/jenkinsci/qmetry-for-jira-test-management-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-21-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "qmetry-test-management",
+    "repository": "https://github.com/jenkinsci/qmetry-test-management-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-25-12",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "qtest",
+    "repository": "https://github.com/jenkinsci/qtest-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-27-57",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "quality-gates",
+    "repository": "https://github.com/jenkinsci/quality-gates-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-31-07",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "quayio-trigger",
+    "repository": "https://github.com/jenkinsci/quayio-trigger-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-33-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "qy-wechat-notification",
+    "repository": "https://github.com/jenkinsci/qy-wechat-notification-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 4,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "developer",
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-11T06-46-12",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "radiatorviewplugin",
+    "repository": "https://github.com/jenkinsci/radiatorview-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-37-19",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "rally-plugin",
+    "repository": "https://github.com/jenkinsci/rally-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-40-08",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "readonly-parameters",
+    "repository": "https://github.com/jenkinsci/readonly-parameter-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-44-01",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "redgate-sql-ci",
+    "repository": "https://github.com/jenkinsci/redgate-sql-ci-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-46-25",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "regression-report-plugin",
+    "repository": "https://github.com/jenkinsci/regression-report-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-49-32",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "requests",
+    "repository": "https://github.com/jenkinsci/requests-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-21T13-27-04",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "reverse-proxy-auth-plugin",
+    "repository": "https://github.com/jenkinsci/reverse-proxy-auth-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-07-31T13-34-59",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "runscope",
+    "repository": "https://github.com/jenkinsci/runscope-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-53-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "s3-jobcacher-storage",
+    "repository": "https://github.com/jenkinsci/s3-jobcacher-storage-plugin.git",
+    "totalMigrations": 9,
+    "successCount": 9,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-54-35",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "safe-batch-environment-filter",
+    "repository": "https://github.com/jenkinsci/safe-batch-environment-filter-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 3,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies",
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-08-27T12-37-22",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "saml",
+    "repository": "https://github.com/jenkinsci/saml-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-19T08-05-26",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "sasunit-plugin",
+    "repository": "https://github.com/jenkinsci/sasunit-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T08-58-36",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "scm-filter-branch-pr",
+    "repository": "https://github.com/jenkinsci/scm-filter-branch-pr-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 5,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 5,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-55-53",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "scmskip",
+    "repository": "https://github.com/jenkinsci/scmskip-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T14-40-41",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "scripted-cloud-plugin",
+    "repository": "https://github.com/jenkinsci/scripted-cloud-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-03-15",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "selected-tests-executor",
+    "repository": "https://github.com/jenkinsci/selected-tests-executor-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-07-57",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "sensedia-api-platform",
+    "repository": "https://github.com/jenkinsci/sensedia-api-platform-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-12-15",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "shared-workspace",
+    "repository": "https://github.com/jenkinsci/shared-workspace-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-16-05",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "sidebar-update-notification",
+    "repository": "https://github.com/jenkinsci/sidebar-update-notification-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-18-38",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "silk-performer-plugin",
+    "repository": "https://github.com/jenkinsci/silk-performer-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-21-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "simple-priority-sorter",
+    "repository": "https://github.com/jenkinsci/simple-priority-sorter-plugin.git",
+    "totalMigrations": 8,
+    "successCount": 8,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 6,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-58-23",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "sitemonitor",
+    "repository": "https://github.com/jenkinsci/sitemonitor-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-26-09",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "skip-notifications-trait",
+    "repository": "https://github.com/jenkinsci/skip-notifications-trait-plugin.git",
+    "totalMigrations": 10,
+    "successCount": 10,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 9,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "migration",
+      "dependencies",
+      "developer"
+    ],
+    "lastMigration": "2026-01-24T14-57-10",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "slack-uploader",
+    "repository": "https://github.com/jenkinsci/slack-uploader-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-29-59",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "slave-squatter",
+    "repository": "https://github.com/jenkinsci/slave-squatter-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-34-06",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "sonar",
+    "repository": "https://github.com/jenkinsci/sonarqube-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-38-23",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "sonarqube-generic-coverage",
+    "repository": "https://github.com/jenkinsci/sonarqube-generic-coverage-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-42-44",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "spoonscript",
+    "repository": "https://github.com/jenkinsci/spoonscript-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-47-21",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "spotinst",
+    "repository": "https://github.com/jenkinsci/spotinst-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-50-12",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "spring-initalzr",
+    "repository": "https://github.com/jenkinsci/spring-initalzr-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-54-27",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "sqlserver-api",
+    "repository": "https://github.com/jenkinsci/sqlserver-api-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 2,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2026-03-20T15-47-42",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "srcclr-installer",
+    "repository": "https://github.com/jenkinsci/srcclr-installer-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T09-59-16",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "ssh-slaves",
+    "repository": "https://github.com/jenkinsci/ssh-agents-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 1,
+    "failCount": 1,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-15T14-36-20",
+    "status": "needs-attention",
+    "successRate": 50
+  },
+  {
+    "name": "stackify-deployment-recorder",
+    "repository": "https://github.com/jenkinsci/stackify-deployment-recorder-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-03-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "stoplightio-report",
+    "repository": "https://github.com/jenkinsci/stoplightio-report-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-09-46",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "svn-partial-release-mgr",
+    "repository": "https://github.com/jenkinsci/svn-partial-release-mgr-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-14-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "syslog-logger",
+    "repository": "https://github.com/jenkinsci/syslog-logger-plugin.git",
+    "totalMigrations": 5,
+    "successCount": 1,
+    "failCount": 4,
+    "openPRs": 1,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-04T10-20-36",
+    "status": "critical",
+    "successRate": 20
+  },
+  {
+    "name": "tekton-client",
+    "repository": "https://github.com/jenkinsci/tekton-client-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "testing",
+      "migration"
+    ],
+    "lastMigration": "2025-06-18T20-02-14",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "terminal",
+    "repository": "https://github.com/jenkinsci/terminal-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-31-16",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "testingbot",
+    "repository": "https://github.com/jenkinsci/testingbot-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-39-40",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "testng-plugin",
+    "repository": "https://github.com/jenkinsci/testng-plugin-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T15-01-17",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "testodyssey-execution",
+    "repository": "https://github.com/jenkinsci/testodyssey-execution-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-42-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "testquality-updater",
+    "repository": "https://github.com/jenkinsci/testquality-updater-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-46-49",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "testsigma",
+    "repository": "https://github.com/jenkinsci/testsigma-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-50-07",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "throttle-concurrents",
+    "repository": "https://github.com/jenkinsci/throttle-concurrent-builds-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T14-53-54",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "thucydides",
+    "repository": "https://github.com/jenkinsci/thucydides-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T10-55-38",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "trac-publisher-plugin",
+    "repository": "https://github.com/jenkinsci/trac-publisher-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-00-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "tracking-svn",
+    "repository": "https://github.com/jenkinsci/tracking-svn-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-04-33",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "tuleap-oauth",
+    "repository": "https://github.com/jenkinsci/tuleap-oauth-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "dependencies"
+    ],
+    "lastMigration": "2025-06-12T12-50-21",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "unity3d-plugin",
+    "repository": "https://github.com/jenkinsci/unity3d-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-08-56",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "vagrant",
+    "repository": "https://github.com/jenkinsci/vagrant-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-13-53",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "vault-scm-plugin",
+    "repository": "https://github.com/jenkinsci/vault-scm-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-17-14",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "vectorcast-coverage",
+    "repository": "https://github.com/jenkinsci/vectorcast-coverage-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-22T10-41-07",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "vectorcast-execution",
+    "repository": "https://github.com/jenkinsci/vectorcast-execution-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-21-22",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "view26",
+    "repository": "https://github.com/jenkinsci/view26-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-24-56",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "viewVC",
+    "repository": "https://github.com/jenkinsci/viewVC-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-27-42",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "vmware-vrealize-automation-plugin",
+    "repository": "https://github.com/jenkinsci/vmware-vrealize-automation-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-32-01",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "vmware-vrealize-orchestrator",
+    "repository": "https://github.com/jenkinsci/vmware-vrealize-orchestrator-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-35-41",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "vncrecorder",
+    "repository": "https://github.com/jenkinsci/vncrecorder-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-38-38",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "vncviewer",
+    "repository": "https://github.com/jenkinsci/vncviewer-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-41-24",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "wavefront",
+    "repository": "https://github.com/jenkinsci/wavefront-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 2,
+    "failCount": 0,
+    "openPRs": 2,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-07-22T10-12-51",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "webhook-eventsource",
+    "repository": "https://github.com/jenkinsci/webhook-eventsource-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-46-43",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "webload",
+    "repository": "https://github.com/jenkinsci/webload-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-50-52",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "websocket",
+    "repository": "https://github.com/jenkinsci/websocket-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T11-59-33",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "wildfly-deployer",
+    "repository": "https://github.com/jenkinsci/wildfly-deployer-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-06-21",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "wix",
+    "repository": "https://github.com/jenkinsci/wix-plugin.git",
+    "totalMigrations": 2,
+    "successCount": 0,
+    "failCount": 2,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-12-41",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "workflow-basic-steps",
+    "repository": "https://github.com/jenkinsci/workflow-basic-steps-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T16-31-44",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "workflow-durable-task-step",
+    "repository": "https://github.com/jenkinsci/workflow-durable-task-step-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T16-07-47",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "workflow-job",
+    "repository": "https://github.com/jenkinsci/workflow-job-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2025-09-09T15-31-20",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "workplace-notifier",
+    "repository": "https://github.com/jenkinsci/workplace-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-17-48",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "wwpass-plugin",
+    "repository": "https://github.com/jenkinsci/wwpass-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-28-08",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "xframe-filter-plugin",
+    "repository": "https://github.com/jenkinsci/xframe-filter-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-37-17",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "xpath-config-viewer",
+    "repository": "https://github.com/jenkinsci/xpath-config-viewer-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-44-47",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "xunit",
+    "repository": "https://github.com/jenkinsci/xunit-plugin.git",
+    "totalMigrations": 1,
+    "successCount": 1,
+    "failCount": 0,
+    "openPRs": 0,
+    "mergedPRs": 1,
+    "tags": [
+      "migration",
+      "dependencies"
+    ],
+    "lastMigration": "2026-01-16T16-03-41",
+    "status": "healthy",
+    "successRate": 100
+  },
+  {
+    "name": "yandex-metrica",
+    "repository": "https://github.com/jenkinsci/yandex-metrica-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-51-20",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "youtrack-plugin",
+    "repository": "https://github.com/jenkinsci/youtrack-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 0,
+    "failCount": 4,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-55-03",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "zapper",
+    "repository": "https://github.com/jenkinsci/zapper-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T12-58-34",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "zentimestamp",
+    "repository": "https://github.com/jenkinsci/zentimestamp-plugin.git",
+    "totalMigrations": 3,
+    "successCount": 0,
+    "failCount": 3,
+    "openPRs": 0,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T13-01-43",
+    "status": "critical",
+    "successRate": 0
+  },
+  {
+    "name": "zephyr-enterprise-test-management",
+    "repository": "https://github.com/jenkinsci/zephyr-enterprise-test-management-plugin.git",
+    "totalMigrations": 4,
+    "successCount": 4,
+    "failCount": 0,
+    "openPRs": 4,
+    "mergedPRs": 0,
+    "tags": [
+      "skip-verification",
+      "chore"
+    ],
+    "lastMigration": "2025-09-04T13-04-12",
+    "status": "healthy",
+    "successRate": 100
+  }
+]

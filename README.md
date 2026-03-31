@@ -1,86 +1,44 @@
-# Jenkins Plugin Modernizer Stats - POC
+# Jenkins Plugin Modernizer Stats — POC
 
-A proof-of-concept dashboard for visualizing Jenkins plugin modernization statistics.
+A proof-of-concept dashboard for the GSoC 2026 project **Plugin Modernizer Stats Visualization**.
 
-## Features
+**Live demo:** https://fikri-20.github.io/jenkins-plugin-modernizer-stats/
 
-- **Real-time data**: Fetches live data from `jenkins-infra/metadata-plugin-modernizer`
-- **Ecosystem metrics**: Total plugins, migrations, success rates
-- **Plugin overview**: Status badges, migration counts, PR tracking
-- **Migration breakdown**: Visual breakdown by migration type
+## What it shows
 
-## Tech Stack
+Real data from [jenkins-infra/metadata-plugin-modernizer](https://github.com/jenkins-infra/metadata-plugin-modernizer) — 429 plugins, 1244 migrations, 18 recipes.
 
-- **React 18** + TypeScript
-- **Vite** for fast builds
-- **Tailwind CSS** for styling
-- **GitHub API** for data fetching
+- **Dashboard** — ecosystem summary cards, migration status donut, failures-by-recipe bar chart, plugin health distribution, critical plugins list
+- **Plugin List** — searchable, sortable, filterable table of all 429 plugins with status badges, tags, and success rate bars
+- **Plugin Detail** — per-plugin migration timeline with PR links, diff stats, tags, and collapsible CI check-run results
 
-## Getting Started
+## Stack
+
+React 18 · TypeScript · Vite · Tailwind CSS · Apache ECharts · React Router v6
+
+## Run locally
 
 ```bash
-# Install dependencies
 npm install
 
-# Run development server
+# Fetch real data from metadata repo
+GITHUB_TOKEN=your_token node scripts/ingest.mjs
+
+# Or fetch a subset for quick dev iteration
+GITHUB_TOKEN=your_token node scripts/ingest.mjs --limit 50
+
+# Start dev server
 npm run dev
-
-# Build for production
-npm run build
-
-# Preview production build
-npm run preview
 ```
 
-## Project Structure
+## How data is fetched
 
-```
-src/
-├── components/
-│   ├── Header.tsx        # Navigation header
-│   ├── Hero.tsx          # Hero section with key metrics
-│   ├── MetricCard.tsx    # Reusable metric card component
-│   ├── PluginTable.tsx   # Plugin list table
-│   └── MigrationBreakdown.tsx  # Migration type breakdown
-├── utils/
-│   └── data.ts           # Data fetching and aggregation
-├── types.ts              # TypeScript interfaces
-├── App.tsx               # Main application
-├── main.tsx              # Entry point
-└── index.css             # Global styles
-```
+`scripts/ingest.mjs` uses the GitHub Trees API (1 request) to list all plugin directories, then fetches each plugin's `reports/aggregated_migrations.json` via `raw.githubusercontent.com` (no rate limit). Output goes to `public/data/` as pre-aggregated JSON the React app reads at build time.
 
-## Data Source
-
-This dashboard consumes metadata from:
-- Repository: `jenkins-infra/metadata-plugin-modernizer`
-- Format: JSON files in `<plugin>/modernization-metadata/`
-
-## GSoC 2026
-
-This POC demonstrates feasibility for the Jenkins GSoC 2026 project:
-**Plugin Modernizer Stats Visualization**
-
-### What This Proves
-
-1. **Data fetching works**: Successfully connects to GitHub API
-2. **Type safety**: Full TypeScript coverage for metadata schema
-3. **Component architecture**: Reusable, production-ready components
-4. **Responsive design**: Mobile-friendly layouts
-5. **Performance**: Fast builds with Vite, minimal bundle size
-
-### Next Steps for Full Implementation
-
-- [ ] Add ECharts for data visualization
-- [ ] Implement plugin detail pages
-- [ ] Add filtering and search
-- [ ] Implement data export (CSV/JSON)
-- [ ] Add scheduled CI builds
-- [ ] Deploy to stats.jenkins.io
+CI runs the full ingest daily at 06:00 UTC and redeploys to GitHub Pages automatically.
 
 ## Author
 
-**Ahmed Fikri** - GSoC 2026 Applicant
-
+**Ahmed Fikri** — GSoC 2026 Applicant
 - GitHub: [@Fikri-20](https://github.com/Fikri-20)
 - LinkedIn: [ahmed-fikri](https://linkedin.com/in/ahmed-fikri)
