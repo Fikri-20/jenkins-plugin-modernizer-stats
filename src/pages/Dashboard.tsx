@@ -27,16 +27,6 @@ export function Dashboard() {
     loadMigrations().then(setMigrations);
   }, []);
 
-  if (!eco) {
-    return <div className="text-center py-20 text-slate-500">Loading...</div>;
-  }
-
-  const successCount = eco.totalMigrations - eco.failedMigrations;
-  const criticalPlugins = plugins
-    .filter((p) => p.status === "critical")
-    .sort((a, b) => b.failCount - a.failCount)
-    .slice(0, 8);
-
   const timeline: TimelineEntry[] = useMemo(() => {
     const monthMap = new Map<string, { success: number; fail: number }>();
     for (const m of migrations) {
@@ -70,6 +60,16 @@ export function Dashboard() {
       .slice(0, 12)
       .map(([tag, count]) => ({ tag, count }));
   }, [migrations]);
+
+  if (!eco) {
+    return <div className="text-center py-20 text-slate-500">Loading...</div>;
+  }
+
+  const successCount = eco.totalMigrations - eco.failedMigrations;
+  const criticalPlugins = plugins
+    .filter((p) => p.status === "critical")
+    .sort((a, b) => b.failCount - a.failCount)
+    .slice(0, 8);
 
   return (
     <div className="space-y-6">
