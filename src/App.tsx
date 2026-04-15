@@ -3,6 +3,8 @@ import { Layout } from "./components/Layout";
 import { Dashboard } from "./pages/Dashboard";
 import { PluginList } from "./pages/PluginList";
 import { PluginDetail } from "./pages/PluginDetail";
+import { RecipeList } from "./pages/RecipeList";
+import { RecipeDetail } from "./pages/RecipeDetail";
 
 export function App() {
   return (
@@ -12,6 +14,8 @@ export function App() {
           <Route index element={<Dashboard />} />
           <Route path="plugins" element={<PluginList />} />
           <Route path="plugin/:name" element={<PluginDetail />} />
+          <Route path="recipes" element={<RecipeList />} />
+          <Route path="recipe/:id" element={<RecipeDetail />} />
         </Route>
       </Routes>
     </BrowserRouter>

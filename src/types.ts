@@ -50,5 +50,14 @@ export interface RecipeStats {
   totalApplications: number;
   successCount: number;
   failureCount: number;
+  successRate?: number;
   plugins: { pluginName: string; status: string; timestamp: string }[];
+}
+
+export interface RecipeSummary {
+  recipeId: string;
+  totalApplications: number;
+  successCount: number;
+  failureCount: number;
+  successRate: number;
 }
